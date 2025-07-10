@@ -1,0 +1,2 @@
+NOTES ON SWITCH CASE JAVA
+ Alt + Enter-->New format of switch case
